@@ -7,6 +7,15 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 #one { 
 
+color: blue;
+font-size: 38px;
+
+}
+
+#two {
+
+background-color: lightgreen;
+font-size: 24px; font-weight: bold;
 
 
 }
